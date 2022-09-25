@@ -170,13 +170,13 @@
     }
   ],
   "bytecode": {
-    "object": "0x608060405234801561001057600080fd5b506102d6806100206000396000f3fe608060405234801561001057600080fd5b50600436106100415760003560e01c80632e1a7d4d14610046578063327d83b81461006c57806333bc26401461009a575b600080fd5b6100596100543660046101f8565b610106565b6040519081526020015b60405180910390f35b61007f61007a36600461022d565b6101b6565b60408051938452602084019290925290820152606001610063565b6100596100a8366004610257565b6040805160608101825242815260208082019384528183019485523360008181528083529384208054600180820183558287529386209451600390910290940193845594519183019190915593516002909101559190915254919050565b33600090815260208190526040812080548291908490811061012a5761012a61028a565b6000918252602091829020604080516060810182526003909302909101805483526001810154938301849052600201549082015291504210156101ac5760405162461bcd60e51b8152602060048201526016602482015275165bdd4818d85b89dd081dda5d1a191c985dc81e595d60521b604482015260640160405180910390fd5b6040015192915050565b600060205281600052604060002081815481106101d257600080fd5b600091825260209091206003909102018054600182015460029092015490935090915083565b60006020828403121561020a57600080fd5b5035919050565b80356001600160a01b038116811461022857600080fd5b919050565b6000806040838503121561024057600080fd5b61024983610211565b946020939093013593505050565b60008060006060848603121561026c57600080fd5b61027584610211565b95602085013595506040909401359392505050565b634e487b7160e01b600052603260045260246000fdfea26469706673582212203f47d76729f9e9c75d58305b628cad9a4aa237df31b3df917585ccd004e3fc5e64736f6c63430008110033",
-    "sourceMap": "152:4090:10:-:0;;;1252:97;;;;;;;;;;152:4090;;;;;;",
+    "object": "0x608060405234801561001057600080fd5b506102da806100206000396000f3fe608060405234801561001057600080fd5b50600436106100415760003560e01c80632e1a7d4d14610046578063327d83b81461006c57806333bc26401461009a575b600080fd5b6100596100543660046101fc565b61010a565b6040519081526020015b60405180910390f35b61007f61007a366004610231565b6101ba565b60408051938452602084019290925290820152606001610063565b6100596100a836600461025b565b336000818152602081815260408083208151606081018352428152808401878152928101888152825460018181018555848852868820935160039092029093019081559351918401919091555160029092019190915592825252549392505050565b33600090815260208190526040812080548291908490811061012e5761012e61028e565b6000918252602091829020604080516060810182526003909302909101805483526001810154938301849052600201549082015291504210156101b05760405162461bcd60e51b8152602060048201526016602482015275165bdd4818d85b89dd081dda5d1a191c985dc81e595d60521b604482015260640160405180910390fd5b6040015192915050565b600060205281600052604060002081815481106101d657600080fd5b600091825260209091206003909102018054600182015460029092015490935090915083565b60006020828403121561020e57600080fd5b5035919050565b80356001600160a01b038116811461022c57600080fd5b919050565b6000806040838503121561024457600080fd5b61024d83610215565b946020939093013593505050565b60008060006060848603121561027057600080fd5b61027984610215565b95602085013595506040909401359392505050565b634e487b7160e01b600052603260045260246000fdfea26469706673582212207c03e2e6bef56b961c7d2a0f72727379a05622e211b2e0f3a174fafb88a132f564736f6c63430008110033",
+    "sourceMap": "152:4056:10:-:0;;;1252:97;;;;;;;;;;152:4056;;;;;;",
     "linkReferences": {}
   },
   "deployedBytecode": {
-    "object": "0x608060405234801561001057600080fd5b50600436106100415760003560e01c80632e1a7d4d14610046578063327d83b81461006c57806333bc26401461009a575b600080fd5b6100596100543660046101f8565b610106565b6040519081526020015b60405180910390f35b61007f61007a36600461022d565b6101b6565b60408051938452602084019290925290820152606001610063565b6100596100a8366004610257565b6040805160608101825242815260208082019384528183019485523360008181528083529384208054600180820183558287529386209451600390910290940193845594519183019190915593516002909101559190915254919050565b33600090815260208190526040812080548291908490811061012a5761012a61028a565b6000918252602091829020604080516060810182526003909302909101805483526001810154938301849052600201549082015291504210156101ac5760405162461bcd60e51b8152602060048201526016602482015275165bdd4818d85b89dd081dda5d1a191c985dc81e595d60521b604482015260640160405180910390fd5b6040015192915050565b600060205281600052604060002081815481106101d257600080fd5b600091825260209091206003909102018054600182015460029092015490935090915083565b60006020828403121561020a57600080fd5b5035919050565b80356001600160a01b038116811461022857600080fd5b919050565b6000806040838503121561024057600080fd5b61024983610211565b946020939093013593505050565b60008060006060848603121561026c57600080fd5b61027584610211565b95602085013595506040909401359392505050565b634e487b7160e01b600052603260045260246000fdfea26469706673582212203f47d76729f9e9c75d58305b628cad9a4aa237df31b3df917585ccd004e3fc5e64736f6c63430008110033",
-    "sourceMap": "152:4090:10:-:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3709:531;;;;;;:::i;:::-;;:::i;:::-;;;345:25:12;;;333:2;318:18;3709:531:10;;;;;;;;866:39;;;;;;:::i;:::-;;:::i;:::-;;;;1020:25:12;;;1076:2;1061:18;;1054:34;;;;1104:18;;;1097:34;1008:2;993:18;866:39:10;818:319:12;2970:521:10;;;;;;:::i;:::-;3360:44;;;;;;;;3365:15;3360:44;;;;;;;;;;;;;;;3420:10;-1:-1:-1;3414:17:10;;;;;;;;;:28;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3460:17;;;;:24;;2970:521;-1:-1:-1;2970:521:10;3709:531;3978:10;3813:15;3972:17;;;;;;;;;;:30;;3813:15;;3972:17;3990:11;;3972:30;;;;;;:::i;:::-;;;;;;;;;;3953:49;;;;;;;;3972:30;;;;;;;3953:49;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;4021:15:10;:30;;4013:65;;;;-1:-1:-1;;;4013:65:10;;1803:2:12;4013:65:10;;;1785:21:12;1842:2;1822:18;;;1815:30;-1:-1:-1;;;1861:18:12;;;1854:52;1923:18;;4013:65:10;;;;;;;;4104:10;;;;3709:531;-1:-1:-1;;3709:531:10:o;866:39::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;866:39:10;;-1:-1:-1;866:39:10;:::o;14:180:12:-;73:6;126:2;114:9;105:7;101:23;97:32;94:52;;;142:1;139;132:12;94:52;-1:-1:-1;165:23:12;;14:180;-1:-1:-1;14:180:12:o;381:173::-;449:20;;-1:-1:-1;;;;;498:31:12;;488:42;;478:70;;544:1;541;534:12;478:70;381:173;;;:::o;559:254::-;627:6;635;688:2;676:9;667:7;663:23;659:32;656:52;;;704:1;701;694:12;656:52;727:29;746:9;727:29;:::i;:::-;717:39;803:2;788:18;;;;775:32;;-1:-1:-1;;;559:254:12:o;1142:322::-;1219:6;1227;1235;1288:2;1276:9;1267:7;1263:23;1259:32;1256:52;;;1304:1;1301;1294:12;1256:52;1327:29;1346:9;1327:29;:::i;:::-;1317:39;1403:2;1388:18;;1375:32;;-1:-1:-1;1454:2:12;1439:18;;;1426:32;;1142:322;-1:-1:-1;;;1142:322:12:o;1469:127::-;1530:10;1525:3;1521:20;1518:1;1511:31;1561:4;1558:1;1551:15;1585:4;1582:1;1575:15",
+    "object": "0x608060405234801561001057600080fd5b50600436106100415760003560e01c80632e1a7d4d14610046578063327d83b81461006c57806333bc26401461009a575b600080fd5b6100596100543660046101fc565b61010a565b6040519081526020015b60405180910390f35b61007f61007a366004610231565b6101ba565b60408051938452602084019290925290820152606001610063565b6100596100a836600461025b565b336000818152602081815260408083208151606081018352428152808401878152928101888152825460018181018555848852868820935160039092029093019081559351918401919091555160029092019190915592825252549392505050565b33600090815260208190526040812080548291908490811061012e5761012e61028e565b6000918252602091829020604080516060810182526003909302909101805483526001810154938301849052600201549082015291504210156101b05760405162461bcd60e51b8152602060048201526016602482015275165bdd4818d85b89dd081dda5d1a191c985dc81e595d60521b604482015260640160405180910390fd5b6040015192915050565b600060205281600052604060002081815481106101d657600080fd5b600091825260209091206003909102018054600182015460029092015490935090915083565b60006020828403121561020e57600080fd5b5035919050565b80356001600160a01b038116811461022c57600080fd5b919050565b6000806040838503121561024457600080fd5b61024d83610215565b946020939093013593505050565b60008060006060848603121561027057600080fd5b61027984610215565b95602085013595506040909401359392505050565b634e487b7160e01b600052603260045260246000fdfea26469706673582212207c03e2e6bef56b961c7d2a0f72727379a05622e211b2e0f3a174fafb88a132f564736f6c63430008110033",
+    "sourceMap": "152:4056:10:-:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3676:530;;;;;;:::i;:::-;;:::i;:::-;;;345:25:12;;;333:2;318:18;3676:530:10;;;;;;;;866:39;;;;;;:::i;:::-;;:::i;:::-;;;;1020:25:12;;;1076:2;1061:18;;1054:34;;;;1104:18;;;1097:34;1008:2;993:18;866:39:10;818:319:12;2970:488:10;;;;;;:::i;:::-;3347:10;3128;3341:17;;;;;;;;;;;3364:44;;;;;;;3369:15;3364:44;;;;;;;;;;;;;;3341:68;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3427:17;;;;:24;2970:488;;;;;;3676:530;3944:10;3779:15;3938:17;;;;;;;;;;:30;;3779:15;;3938:17;3956:11;;3938:30;;;;;;:::i;:::-;;;;;;;;;;3919:49;;;;;;;;3938:30;;;;;;;3919:49;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;3987:15:10;:30;;3979:65;;;;-1:-1:-1;;;3979:65:10;;1803:2:12;3979:65:10;;;1785:21:12;1842:2;1822:18;;;1815:30;-1:-1:-1;;;1861:18:12;;;1854:52;1923:18;;3979:65:10;;;;;;;;4070:10;;;;3676:530;-1:-1:-1;;3676:530:10:o;866:39::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;866:39:10;;-1:-1:-1;866:39:10;:::o;14:180:12:-;73:6;126:2;114:9;105:7;101:23;97:32;94:52;;;142:1;139;132:12;94:52;-1:-1:-1;165:23:12;;14:180;-1:-1:-1;14:180:12:o;381:173::-;449:20;;-1:-1:-1;;;;;498:31:12;;488:42;;478:70;;544:1;541;534:12;478:70;381:173;;;:::o;559:254::-;627:6;635;688:2;676:9;667:7;663:23;659:32;656:52;;;704:1;701;694:12;656:52;727:29;746:9;727:29;:::i;:::-;717:39;803:2;788:18;;;;775:32;;-1:-1:-1;;;559:254:12:o;1142:322::-;1219:6;1227;1235;1288:2;1276:9;1267:7;1263:23;1259:32;1256:52;;;1304:1;1301;1294:12;1256:52;1327:29;1346:9;1327:29;:::i;:::-;1317:39;1403:2;1388:18;;1375:32;;-1:-1:-1;1454:2:12;1439:18;;;1426:32;;1142:322;-1:-1:-1;;;1142:322:12:o;1469:127::-;1530:10;1525:3;1521:20;1518:1;1511:31;1561:4;1558:1;1551:15;1585:4;1582:1;1575:15",
     "linkReferences": {}
   },
   "methodIdentifiers": {
@@ -184,7 +184,7 @@
     "create_bond(address,uint256,uint256)": "33bc2640",
     "withdraw(uint256)": "2e1a7d4d"
   },
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.17+commit.8df45f5f\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"user\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"token\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"value\",\"type\":\"uint256\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"duration\",\"type\":\"uint256\"}],\"name\":\"Bonded\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"user\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"name\":\"Redemption\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"uint256\",\"name\":\"id\",\"type\":\"uint256\"},{\"indexed\":false,\"internalType\":\"uint64\",\"name\":\"oldControlVariable\",\"type\":\"uint64\"},{\"indexed\":false,\"internalType\":\"uint64\",\"name\":\"newControlVariable\",\"type\":\"uint64\"}],\"name\":\"Tuned\",\"type\":\"event\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"name\":\"bonds\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"created\",\"type\":\"uint256\"},{\"internalType\":\"uint256\",\"name\":\"expiry\",\"type\":\"uint256\"},{\"internalType\":\"uint256\",\"name\":\"value\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_lp_address\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"_lp_amount\",\"type\":\"uint256\"},{\"internalType\":\"uint256\",\"name\":\"_duration\",\"type\":\"uint256\"}],\"name\":\"create_bond\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"index\",\"type\":\"uint256\"}],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_bond_index\",\"type\":\"uint256\"}],\"name\":\"withdraw\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"withdrawn_\",\"type\":\"uint256\"}],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{\"withdraw(uint256)\":{\"params\":{\"_bond_index\":\"the index of the bond to be withdrawn\"},\"returns\":{\"withdrawn_\":\"      how much mgmt was withdrawn\"}}},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{\"withdraw(uint256)\":{\"notice\":\"withdraw a bond if it has matured\"}},\"version\":1}},\"settings\":{\"compilationTarget\":{\"src/VariableBonding.sol\":\"VariableBonding\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[\":ds-test/=lib/forge-std/lib/ds-test/src/\",\":forge-std/=lib/forge-std/src/\"]},\"sources\":{\"interfaces/IERC20.sol\":{\"keccak256\":\"0x0b8c10b6d89afe8cc12ba168f6c52ac220e864c9e5dbaf77b1ac2e51f0606314\",\"license\":\"AGPL-3.0\",\"urls\":[\"bzz-raw://1695c815b802f0cd33a9f3c861562992edee78972db3bc4bbf4e0f90555a4fc3\",\"dweb:/ipfs/QmZJyx6PpgFKnZSk8GWcRdzdNmuXJZ6FfQhcjt3mJLjDKd\"]},\"interfaces/IERC20Metadata.sol\":{\"keccak256\":\"0xe76b0d12f03fe0401f505e3a378217680f8ad6353c5ab3994fa6ed8a99de0a4f\",\"license\":\"AGPL-3.0\",\"urls\":[\"bzz-raw://f6dba06fc1d0255793358ce21e248bfa027da155b7282e32b58155a08a31fe57\",\"dweb:/ipfs/QmeAAMf7j9gg9LAo3pUzC3rufX8vLeS7xssdYhUt55Ub1S\"]},\"libraries/SafeERC20.sol\":{\"keccak256\":\"0xbdd4f99088de7c23383b043055646de013b1312166a9bfa05e3995cdcf7ae022\",\"license\":\"AGPL-3.0-only\",\"urls\":[\"bzz-raw://920537f13ff6295b857ef2b3a8c9c9e31d8c8966ca9176b77758d74050949b1f\",\"dweb:/ipfs/QmXNvBawVu3CYozAY2sFvsM8LVuJN6eexkifgnGqg3rWKR\"]},\"src/VariableBonding.sol\":{\"keccak256\":\"0x1a44ce8ae897fe506a7d5f868ece7d368f0e89707da32ad81c62fc9b4d1dafa1\",\"license\":\"AGPL-3.0-or-later\",\"urls\":[\"bzz-raw://f2574815920f02d4f87596b3a023f7b8e29907e336905729f0e0188813f0abc9\",\"dweb:/ipfs/QmWLxm6XbjweS5JC6heTfN44VpLryLR4ie9AY9QuH6emQh\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.17+commit.8df45f5f\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"user\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"token\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"value\",\"type\":\"uint256\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"duration\",\"type\":\"uint256\"}],\"name\":\"Bonded\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"user\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"name\":\"Redemption\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"uint256\",\"name\":\"id\",\"type\":\"uint256\"},{\"indexed\":false,\"internalType\":\"uint64\",\"name\":\"oldControlVariable\",\"type\":\"uint64\"},{\"indexed\":false,\"internalType\":\"uint64\",\"name\":\"newControlVariable\",\"type\":\"uint64\"}],\"name\":\"Tuned\",\"type\":\"event\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"name\":\"bonds\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"created\",\"type\":\"uint256\"},{\"internalType\":\"uint256\",\"name\":\"expiry\",\"type\":\"uint256\"},{\"internalType\":\"uint256\",\"name\":\"value\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_lp_address\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"_lp_amount\",\"type\":\"uint256\"},{\"internalType\":\"uint256\",\"name\":\"_duration\",\"type\":\"uint256\"}],\"name\":\"create_bond\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"index\",\"type\":\"uint256\"}],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_bond_index\",\"type\":\"uint256\"}],\"name\":\"withdraw\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"withdrawn_\",\"type\":\"uint256\"}],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{\"withdraw(uint256)\":{\"params\":{\"_bond_index\":\"the index of the bond to be withdrawn\"},\"returns\":{\"withdrawn_\":\"      how much mgmt was withdrawn\"}}},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{\"withdraw(uint256)\":{\"notice\":\"withdraw a bond if it has matured\"}},\"version\":1}},\"settings\":{\"compilationTarget\":{\"src/VariableBonding.sol\":\"VariableBonding\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[\":ds-test/=lib/forge-std/lib/ds-test/src/\",\":forge-std/=lib/forge-std/src/\"]},\"sources\":{\"interfaces/IERC20.sol\":{\"keccak256\":\"0x0b8c10b6d89afe8cc12ba168f6c52ac220e864c9e5dbaf77b1ac2e51f0606314\",\"license\":\"AGPL-3.0\",\"urls\":[\"bzz-raw://1695c815b802f0cd33a9f3c861562992edee78972db3bc4bbf4e0f90555a4fc3\",\"dweb:/ipfs/QmZJyx6PpgFKnZSk8GWcRdzdNmuXJZ6FfQhcjt3mJLjDKd\"]},\"interfaces/IERC20Metadata.sol\":{\"keccak256\":\"0xe76b0d12f03fe0401f505e3a378217680f8ad6353c5ab3994fa6ed8a99de0a4f\",\"license\":\"AGPL-3.0\",\"urls\":[\"bzz-raw://f6dba06fc1d0255793358ce21e248bfa027da155b7282e32b58155a08a31fe57\",\"dweb:/ipfs/QmeAAMf7j9gg9LAo3pUzC3rufX8vLeS7xssdYhUt55Ub1S\"]},\"libraries/SafeERC20.sol\":{\"keccak256\":\"0xbdd4f99088de7c23383b043055646de013b1312166a9bfa05e3995cdcf7ae022\",\"license\":\"AGPL-3.0-only\",\"urls\":[\"bzz-raw://920537f13ff6295b857ef2b3a8c9c9e31d8c8966ca9176b77758d74050949b1f\",\"dweb:/ipfs/QmXNvBawVu3CYozAY2sFvsM8LVuJN6eexkifgnGqg3rWKR\"]},\"src/VariableBonding.sol\":{\"keccak256\":\"0xedbe3e9990ed59194db1d3155022a44a009beb4db351d4dc3cdc1a3af8d9704d\",\"license\":\"AGPL-3.0-or-later\",\"urls\":[\"bzz-raw://f444860a4ca505f74f186c6ed2e2f394898595b17272f2097754982ad49ad140\",\"dweb:/ipfs/QmWprE5Moucp2zvKeBXWwrsS5TTPg2LGVoMqKMGbtLNWpD\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.17+commit.8df45f5f"
@@ -428,10 +428,10 @@
         "license": "AGPL-3.0-only"
       },
       "src/VariableBonding.sol": {
-        "keccak256": "0x1a44ce8ae897fe506a7d5f868ece7d368f0e89707da32ad81c62fc9b4d1dafa1",
+        "keccak256": "0xedbe3e9990ed59194db1d3155022a44a009beb4db351d4dc3cdc1a3af8d9704d",
         "urls": [
-          "bzz-raw://f2574815920f02d4f87596b3a023f7b8e29907e336905729f0e0188813f0abc9",
-          "dweb:/ipfs/QmWLxm6XbjweS5JC6heTfN44VpLryLR4ie9AY9QuH6emQh"
+          "bzz-raw://f444860a4ca505f74f186c6ed2e2f394898595b17272f2097754982ad49ad140",
+          "dweb:/ipfs/QmWprE5Moucp2zvKeBXWwrsS5TTPg2LGVoMqKMGbtLNWpD"
         ],
         "license": "AGPL-3.0-or-later"
       }
@@ -440,7 +440,7 @@
   },
   "ast": {
     "absolutePath": "src/VariableBonding.sol",
-    "id": 23600,
+    "id": 23595,
     "exportedSymbols": {
       "IERC20": [
         68
@@ -452,11 +452,11 @@
         23429
       ],
       "VariableBonding": [
-        23599
+        23594
       ]
     },
     "nodeType": "SourceUnit",
-    "src": "46:4196:10",
+    "src": "46:4162:10",
     "nodes": [
       {
         "id": 23431,
@@ -476,7 +476,7 @@
         "absolutePath": "libraries/SafeERC20.sol",
         "file": "../libraries/SafeERC20.sol",
         "nameLocation": "-1:-1:-1",
-        "scope": 23600,
+        "scope": 23595,
         "sourceUnit": 23430,
         "symbolAliases": [],
         "unitAlias": ""
@@ -488,15 +488,15 @@
         "absolutePath": "interfaces/IERC20Metadata.sol",
         "file": "../interfaces/IERC20Metadata.sol",
         "nameLocation": "-1:-1:-1",
-        "scope": 23600,
+        "scope": 23595,
         "sourceUnit": 90,
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
-        "id": 23599,
+        "id": 23594,
         "nodeType": "ContractDefinition",
-        "src": "152:4090:10",
+        "src": "152:4056:10",
         "nodes": [
           {
             "id": 23437,
@@ -624,7 +624,7 @@
             ],
             "name": "Bond",
             "nameLocation": "310:4:10",
-            "scope": 23599,
+            "scope": 23594,
             "visibility": "public"
           },
           {
@@ -635,7 +635,7 @@
             "mutability": "constant",
             "name": "ONE_WEEK",
             "nameLocation": "681:8:10",
-            "scope": 23599,
+            "scope": 23594,
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -678,7 +678,7 @@
             "mutability": "constant",
             "name": "TWO_WEEKs",
             "nameLocation": "718:9:10",
-            "scope": 23599,
+            "scope": 23594,
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -721,7 +721,7 @@
             "mutability": "constant",
             "name": "THREE_MONTHS",
             "nameLocation": "757:12:10",
-            "scope": 23599,
+            "scope": 23594,
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -764,7 +764,7 @@
             "mutability": "constant",
             "name": "SIX_MONTHS",
             "nameLocation": "799:10:10",
-            "scope": 23599,
+            "scope": 23594,
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -807,7 +807,7 @@
             "mutability": "constant",
             "name": "ONE_YEAR",
             "nameLocation": "840:8:10",
-            "scope": 23599,
+            "scope": 23594,
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -851,7 +851,7 @@
             "mutability": "mutable",
             "name": "bonds",
             "nameLocation": "900:5:10",
-            "scope": 23599,
+            "scope": 23594,
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -1266,7 +1266,7 @@
               "parameters": [],
               "src": "1333:0:10"
             },
-            "scope": 23599,
+            "scope": 23594,
             "stateMutability": "nonpayable",
             "virtual": false,
             "visibility": "public"
@@ -1388,7 +1388,7 @@
               ],
               "src": "1755:38:10"
             },
-            "scope": 23599,
+            "scope": 23594,
             "stateMutability": "nonpayable",
             "virtual": false,
             "visibility": "internal"
@@ -1643,19 +1643,19 @@
               ],
               "src": "2472:39:10"
             },
-            "scope": 23599,
+            "scope": 23594,
             "stateMutability": "nonpayable",
             "virtual": false,
             "visibility": "internal"
           },
           {
-            "id": 23567,
+            "id": 23562,
             "nodeType": "FunctionDefinition",
-            "src": "2970:521:10",
+            "src": "2970:488:10",
             "body": {
-              "id": 23566,
+              "id": 23561,
               "nodeType": "Block",
-              "src": "3153:338:10",
+              "src": "3153:305:10",
               "statements": [
                 {
                   "assignments": [
@@ -1669,7 +1669,7 @@
                       "name": "bond_value",
                       "nameLocation": "3308:10:10",
                       "nodeType": "VariableDeclaration",
-                      "scope": 23566,
+                      "scope": 23561,
                       "src": "3303:15:10",
                       "stateVariable": false,
                       "storageLocation": "default",
@@ -1707,158 +1707,99 @@
                   "src": "3303:28:10"
                 },
                 {
-                  "assignments": [
-                    23544
-                  ],
-                  "declarations": [
-                    {
-                      "constant": false,
-                      "id": 23544,
-                      "mutability": "mutable",
-                      "name": "bond",
-                      "nameLocation": "3353:4:10",
-                      "nodeType": "VariableDeclaration",
-                      "scope": 23566,
-                      "src": "3341:16:10",
-                      "stateVariable": false,
-                      "storageLocation": "memory",
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_struct$_Bond_$23444_memory_ptr",
-                        "typeString": "struct VariableBonding.Bond"
-                      },
-                      "typeName": {
-                        "id": 23543,
-                        "nodeType": "UserDefinedTypeName",
-                        "pathNode": {
-                          "id": 23542,
-                          "name": "Bond",
-                          "nameLocations": [
-                            "3341:4:10"
-                          ],
-                          "nodeType": "IdentifierPath",
-                          "referencedDeclaration": 23444,
-                          "src": "3341:4:10"
-                        },
-                        "referencedDeclaration": 23444,
-                        "src": "3341:4:10",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_Bond_$23444_storage_ptr",
-                          "typeString": "struct VariableBonding.Bond"
-                        }
-                      },
-                      "visibility": "internal"
-                    }
-                  ],
-                  "id": 23551,
-                  "initialValue": {
-                    "arguments": [
-                      {
-                        "expression": {
-                          "id": 23546,
-                          "name": "block",
-                          "nodeType": "Identifier",
-                          "overloadedDeclarations": [],
-                          "referencedDeclaration": -4,
-                          "src": "3365:5:10",
-                          "typeDescriptions": {
-                            "typeIdentifier": "t_magic_block",
-                            "typeString": "block"
-                          }
-                        },
-                        "id": 23547,
-                        "isConstant": false,
-                        "isLValue": false,
-                        "isPure": false,
-                        "lValueRequested": false,
-                        "memberLocation": "3371:9:10",
-                        "memberName": "timestamp",
-                        "nodeType": "MemberAccess",
-                        "src": "3365:15:10",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_uint256",
-                          "typeString": "uint256"
-                        }
-                      },
-                      {
-                        "id": 23548,
-                        "name": "_duration",
-                        "nodeType": "Identifier",
-                        "overloadedDeclarations": [],
-                        "referencedDeclaration": 23533,
-                        "src": "3382:9:10",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_uint256",
-                          "typeString": "uint256"
-                        }
-                      },
-                      {
-                        "id": 23549,
-                        "name": "bond_value",
-                        "nodeType": "Identifier",
-                        "overloadedDeclarations": [],
-                        "referencedDeclaration": 23539,
-                        "src": "3393:10:10",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_uint256",
-                          "typeString": "uint256"
-                        }
-                      }
-                    ],
-                    "expression": {
-                      "argumentTypes": [
-                        {
-                          "typeIdentifier": "t_uint256",
-                          "typeString": "uint256"
-                        },
-                        {
-                          "typeIdentifier": "t_uint256",
-                          "typeString": "uint256"
-                        },
-                        {
-                          "typeIdentifier": "t_uint256",
-                          "typeString": "uint256"
-                        }
-                      ],
-                      "id": 23545,
-                      "name": "Bond",
-                      "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 23444,
-                      "src": "3360:4:10",
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_type$_t_struct$_Bond_$23444_storage_ptr_$",
-                        "typeString": "type(struct VariableBonding.Bond storage pointer)"
-                      }
-                    },
-                    "id": 23550,
-                    "isConstant": false,
-                    "isLValue": false,
-                    "isPure": false,
-                    "kind": "structConstructorCall",
-                    "lValueRequested": false,
-                    "nameLocations": [],
-                    "names": [],
-                    "nodeType": "FunctionCall",
-                    "src": "3360:44:10",
-                    "tryCall": false,
-                    "typeDescriptions": {
-                      "typeIdentifier": "t_struct$_Bond_$23444_memory_ptr",
-                      "typeString": "struct VariableBonding.Bond memory"
-                    }
-                  },
-                  "nodeType": "VariableDeclarationStatement",
-                  "src": "3341:63:10"
-                },
-                {
                   "expression": {
                     "arguments": [
                       {
-                        "id": 23557,
-                        "name": "bond",
-                        "nodeType": "Identifier",
-                        "overloadedDeclarations": [],
-                        "referencedDeclaration": 23544,
-                        "src": "3437:4:10",
+                        "arguments": [
+                          {
+                            "expression": {
+                              "id": 23548,
+                              "name": "block",
+                              "nodeType": "Identifier",
+                              "overloadedDeclarations": [],
+                              "referencedDeclaration": -4,
+                              "src": "3369:5:10",
+                              "typeDescriptions": {
+                                "typeIdentifier": "t_magic_block",
+                                "typeString": "block"
+                              }
+                            },
+                            "id": 23549,
+                            "isConstant": false,
+                            "isLValue": false,
+                            "isPure": false,
+                            "lValueRequested": false,
+                            "memberLocation": "3375:9:10",
+                            "memberName": "timestamp",
+                            "nodeType": "MemberAccess",
+                            "src": "3369:15:10",
+                            "typeDescriptions": {
+                              "typeIdentifier": "t_uint256",
+                              "typeString": "uint256"
+                            }
+                          },
+                          {
+                            "id": 23550,
+                            "name": "_duration",
+                            "nodeType": "Identifier",
+                            "overloadedDeclarations": [],
+                            "referencedDeclaration": 23533,
+                            "src": "3386:9:10",
+                            "typeDescriptions": {
+                              "typeIdentifier": "t_uint256",
+                              "typeString": "uint256"
+                            }
+                          },
+                          {
+                            "id": 23551,
+                            "name": "bond_value",
+                            "nodeType": "Identifier",
+                            "overloadedDeclarations": [],
+                            "referencedDeclaration": 23539,
+                            "src": "3397:10:10",
+                            "typeDescriptions": {
+                              "typeIdentifier": "t_uint256",
+                              "typeString": "uint256"
+                            }
+                          }
+                        ],
+                        "expression": {
+                          "argumentTypes": [
+                            {
+                              "typeIdentifier": "t_uint256",
+                              "typeString": "uint256"
+                            },
+                            {
+                              "typeIdentifier": "t_uint256",
+                              "typeString": "uint256"
+                            },
+                            {
+                              "typeIdentifier": "t_uint256",
+                              "typeString": "uint256"
+                            }
+                          ],
+                          "id": 23547,
+                          "name": "Bond",
+                          "nodeType": "Identifier",
+                          "overloadedDeclarations": [],
+                          "referencedDeclaration": 23444,
+                          "src": "3364:4:10",
+                          "typeDescriptions": {
+                            "typeIdentifier": "t_type$_t_struct$_Bond_$23444_storage_ptr_$",
+                            "typeString": "type(struct VariableBonding.Bond storage pointer)"
+                          }
+                        },
+                        "id": 23552,
+                        "isConstant": false,
+                        "isLValue": false,
+                        "isPure": false,
+                        "kind": "structConstructorCall",
+                        "lValueRequested": false,
+                        "nameLocations": [],
+                        "names": [],
+                        "nodeType": "FunctionCall",
+                        "src": "3364:44:10",
+                        "tryCall": false,
                         "typeDescriptions": {
                           "typeIdentifier": "t_struct$_Bond_$23444_memory_ptr",
                           "typeString": "struct VariableBonding.Bond memory"
@@ -1874,40 +1815,40 @@
                       ],
                       "expression": {
                         "baseExpression": {
-                          "id": 23552,
+                          "id": 23542,
                           "name": "bonds",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
                           "referencedDeclaration": 23465,
-                          "src": "3414:5:10",
+                          "src": "3341:5:10",
                           "typeDescriptions": {
                             "typeIdentifier": "t_mapping$_t_address_$_t_array$_t_struct$_Bond_$23444_storage_$dyn_storage_$",
                             "typeString": "mapping(address => struct VariableBonding.Bond storage ref[] storage ref)"
                           }
                         },
-                        "id": 23555,
+                        "id": 23545,
                         "indexExpression": {
                           "expression": {
-                            "id": 23553,
+                            "id": 23543,
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
                             "referencedDeclaration": -15,
-                            "src": "3420:3:10",
+                            "src": "3347:3:10",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
                               "typeString": "msg"
                             }
                           },
-                          "id": 23554,
+                          "id": 23544,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
                           "lValueRequested": false,
-                          "memberLocation": "3424:6:10",
+                          "memberLocation": "3351:6:10",
                           "memberName": "sender",
                           "nodeType": "MemberAccess",
-                          "src": "3420:10:10",
+                          "src": "3347:10:10",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
                             "typeString": "address"
@@ -1918,27 +1859,27 @@
                         "isPure": false,
                         "lValueRequested": false,
                         "nodeType": "IndexAccess",
-                        "src": "3414:17:10",
+                        "src": "3341:17:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_array$_t_struct$_Bond_$23444_storage_$dyn_storage",
                           "typeString": "struct VariableBonding.Bond storage ref[] storage ref"
                         }
                       },
-                      "id": 23556,
+                      "id": 23546,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
                       "lValueRequested": false,
-                      "memberLocation": "3432:4:10",
+                      "memberLocation": "3359:4:10",
                       "memberName": "push",
                       "nodeType": "MemberAccess",
-                      "src": "3414:22:10",
+                      "src": "3341:22:10",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_arraypush_nonpayable$_t_array$_t_struct$_Bond_$23444_storage_$dyn_storage_ptr_$_t_struct$_Bond_$23444_storage_$returns$__$bound_to$_t_array$_t_struct$_Bond_$23444_storage_$dyn_storage_ptr_$",
                         "typeString": "function (struct VariableBonding.Bond storage ref[] storage pointer,struct VariableBonding.Bond storage ref)"
                       }
                     },
-                    "id": 23558,
+                    "id": 23553,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1947,55 +1888,55 @@
                     "nameLocations": [],
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "3414:28:10",
+                    "src": "3341:68:10",
                     "tryCall": false,
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 23559,
+                  "id": 23554,
                   "nodeType": "ExpressionStatement",
-                  "src": "3414:28:10"
+                  "src": "3341:68:10"
                 },
                 {
                   "expression": {
                     "expression": {
                       "baseExpression": {
-                        "id": 23560,
+                        "id": 23555,
                         "name": "bonds",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
                         "referencedDeclaration": 23465,
-                        "src": "3460:5:10",
+                        "src": "3427:5:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_array$_t_struct$_Bond_$23444_storage_$dyn_storage_$",
                           "typeString": "mapping(address => struct VariableBonding.Bond storage ref[] storage ref)"
                         }
                       },
-                      "id": 23563,
+                      "id": 23558,
                       "indexExpression": {
                         "expression": {
-                          "id": 23561,
+                          "id": 23556,
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
                           "referencedDeclaration": -15,
-                          "src": "3466:3:10",
+                          "src": "3433:3:10",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
                             "typeString": "msg"
                           }
                         },
-                        "id": 23562,
+                        "id": 23557,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
-                        "memberLocation": "3470:6:10",
+                        "memberLocation": "3437:6:10",
                         "memberName": "sender",
                         "nodeType": "MemberAccess",
-                        "src": "3466:10:10",
+                        "src": "3433:10:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -2006,30 +1947,30 @@
                       "isPure": false,
                       "lValueRequested": false,
                       "nodeType": "IndexAccess",
-                      "src": "3460:17:10",
+                      "src": "3427:17:10",
                       "typeDescriptions": {
                         "typeIdentifier": "t_array$_t_struct$_Bond_$23444_storage_$dyn_storage",
                         "typeString": "struct VariableBonding.Bond storage ref[] storage ref"
                       }
                     },
-                    "id": 23564,
+                    "id": 23559,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
-                    "memberLocation": "3478:6:10",
+                    "memberLocation": "3445:6:10",
                     "memberName": "length",
                     "nodeType": "MemberAccess",
-                    "src": "3460:24:10",
+                    "src": "3427:24:10",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   },
                   "functionReturnParameters": 23537,
-                  "id": 23565,
+                  "id": 23560,
                   "nodeType": "Return",
-                  "src": "3453:31:10"
+                  "src": "3420:31:10"
                 }
               ]
             },
@@ -2050,7 +1991,7 @@
                   "name": "_lp_address",
                   "nameLocation": "3008:11:10",
                   "nodeType": "VariableDeclaration",
-                  "scope": 23567,
+                  "scope": 23562,
                   "src": "3000:19:10",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -2078,7 +2019,7 @@
                   "name": "_lp_amount",
                   "nameLocation": "3034:10:10",
                   "nodeType": "VariableDeclaration",
-                  "scope": 23567,
+                  "scope": 23562,
                   "src": "3029:15:10",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -2105,7 +2046,7 @@
                   "name": "_duration",
                   "nameLocation": "3059:9:10",
                   "nodeType": "VariableDeclaration",
-                  "scope": 23567,
+                  "scope": 23562,
                   "src": "3054:14:10",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -2139,7 +2080,7 @@
                   "name": "index",
                   "nameLocation": "3133:5:10",
                   "nodeType": "VariableDeclaration",
-                  "scope": 23567,
+                  "scope": 23562,
                   "src": "3128:10:10",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -2162,34 +2103,34 @@
               ],
               "src": "3114:34:10"
             },
-            "scope": 23599,
+            "scope": 23594,
             "stateMutability": "nonpayable",
             "virtual": false,
             "visibility": "public"
           },
           {
-            "id": 23598,
+            "id": 23593,
             "nodeType": "FunctionDefinition",
-            "src": "3709:531:10",
+            "src": "3676:530:10",
             "body": {
-              "id": 23597,
+              "id": 23592,
               "nodeType": "Block",
-              "src": "3843:397:10",
+              "src": "3809:397:10",
               "statements": [
                 {
                   "assignments": [
-                    23577
+                    23572
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 23577,
+                      "id": 23572,
                       "mutability": "mutable",
                       "name": "bond",
-                      "nameLocation": "3965:4:10",
+                      "nameLocation": "3931:4:10",
                       "nodeType": "VariableDeclaration",
-                      "scope": 23597,
-                      "src": "3953:16:10",
+                      "scope": 23592,
+                      "src": "3919:16:10",
                       "stateVariable": false,
                       "storageLocation": "memory",
                       "typeDescriptions": {
@@ -2197,20 +2138,20 @@
                         "typeString": "struct VariableBonding.Bond"
                       },
                       "typeName": {
-                        "id": 23576,
+                        "id": 23571,
                         "nodeType": "UserDefinedTypeName",
                         "pathNode": {
-                          "id": 23575,
+                          "id": 23570,
                           "name": "Bond",
                           "nameLocations": [
-                            "3953:4:10"
+                            "3919:4:10"
                           ],
                           "nodeType": "IdentifierPath",
                           "referencedDeclaration": 23444,
-                          "src": "3953:4:10"
+                          "src": "3919:4:10"
                         },
                         "referencedDeclaration": 23444,
-                        "src": "3953:4:10",
+                        "src": "3919:4:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_struct$_Bond_$23444_storage_ptr",
                           "typeString": "struct VariableBonding.Bond"
@@ -2219,44 +2160,44 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 23584,
+                  "id": 23579,
                   "initialValue": {
                     "baseExpression": {
                       "baseExpression": {
-                        "id": 23578,
+                        "id": 23573,
                         "name": "bonds",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
                         "referencedDeclaration": 23465,
-                        "src": "3972:5:10",
+                        "src": "3938:5:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_array$_t_struct$_Bond_$23444_storage_$dyn_storage_$",
                           "typeString": "mapping(address => struct VariableBonding.Bond storage ref[] storage ref)"
                         }
                       },
-                      "id": 23581,
+                      "id": 23576,
                       "indexExpression": {
                         "expression": {
-                          "id": 23579,
+                          "id": 23574,
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
                           "referencedDeclaration": -15,
-                          "src": "3978:3:10",
+                          "src": "3944:3:10",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
                             "typeString": "msg"
                           }
                         },
-                        "id": 23580,
+                        "id": 23575,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
-                        "memberLocation": "3982:6:10",
+                        "memberLocation": "3948:6:10",
                         "memberName": "sender",
                         "nodeType": "MemberAccess",
-                        "src": "3978:10:10",
+                        "src": "3944:10:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -2267,20 +2208,20 @@
                       "isPure": false,
                       "lValueRequested": false,
                       "nodeType": "IndexAccess",
-                      "src": "3972:17:10",
+                      "src": "3938:17:10",
                       "typeDescriptions": {
                         "typeIdentifier": "t_array$_t_struct$_Bond_$23444_storage_$dyn_storage",
                         "typeString": "struct VariableBonding.Bond storage ref[] storage ref"
                       }
                     },
-                    "id": 23583,
+                    "id": 23578,
                     "indexExpression": {
-                      "id": 23582,
+                      "id": 23577,
                       "name": "_bond_index",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 23570,
-                      "src": "3990:11:10",
+                      "referencedDeclaration": 23565,
+                      "src": "3956:11:10",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -2291,14 +2232,14 @@
                     "isPure": false,
                     "lValueRequested": false,
                     "nodeType": "IndexAccess",
-                    "src": "3972:30:10",
+                    "src": "3938:30:10",
                     "typeDescriptions": {
                       "typeIdentifier": "t_struct$_Bond_$23444_storage",
                       "typeString": "struct VariableBonding.Bond storage ref"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "3953:49:10"
+                  "src": "3919:49:10"
                 },
                 {
                   "expression": {
@@ -2308,33 +2249,33 @@
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
                         },
-                        "id": 23590,
+                        "id": 23585,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "expression": {
-                            "id": 23586,
+                            "id": 23581,
                             "name": "block",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
                             "referencedDeclaration": -4,
-                            "src": "4021:5:10",
+                            "src": "3987:5:10",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_block",
                               "typeString": "block"
                             }
                           },
-                          "id": 23587,
+                          "id": 23582,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
                           "lValueRequested": false,
-                          "memberLocation": "4027:9:10",
+                          "memberLocation": "3993:9:10",
                           "memberName": "timestamp",
                           "nodeType": "MemberAccess",
-                          "src": "4021:15:10",
+                          "src": "3987:15:10",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
@@ -2344,33 +2285,33 @@
                         "operator": ">=",
                         "rightExpression": {
                           "expression": {
-                            "id": 23588,
+                            "id": 23583,
                             "name": "bond",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 23577,
-                            "src": "4040:4:10",
+                            "referencedDeclaration": 23572,
+                            "src": "4006:4:10",
                             "typeDescriptions": {
                               "typeIdentifier": "t_struct$_Bond_$23444_memory_ptr",
                               "typeString": "struct VariableBonding.Bond memory"
                             }
                           },
-                          "id": 23589,
+                          "id": 23584,
                           "isConstant": false,
                           "isLValue": true,
                           "isPure": false,
                           "lValueRequested": false,
-                          "memberLocation": "4045:6:10",
+                          "memberLocation": "4011:6:10",
                           "memberName": "expiry",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": 23441,
-                          "src": "4040:11:10",
+                          "src": "4006:11:10",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
                           }
                         },
-                        "src": "4021:30:10",
+                        "src": "3987:30:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -2378,14 +2319,14 @@
                       },
                       {
                         "hexValue": "596f752063616e277420776974686472617720796574",
-                        "id": 23591,
+                        "id": 23586,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
                         "kind": "string",
                         "lValueRequested": false,
                         "nodeType": "Literal",
-                        "src": "4053:24:10",
+                        "src": "4019:24:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_stringliteral_09be2a1d7c98765b8c1bd9ab3700b54ab19d501eebe572af39b71382f17d12e8",
                           "typeString": "literal_string \"You can't withdraw yet\""
@@ -2404,7 +2345,7 @@
                           "typeString": "literal_string \"You can't withdraw yet\""
                         }
                       ],
-                      "id": 23585,
+                      "id": 23580,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
@@ -2412,13 +2353,13 @@
                         -18
                       ],
                       "referencedDeclaration": -18,
-                      "src": "4013:7:10",
+                      "src": "3979:7:10",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 23592,
+                    "id": 23587,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2427,57 +2368,57 @@
                     "nameLocations": [],
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "4013:65:10",
+                    "src": "3979:65:10",
                     "tryCall": false,
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 23593,
+                  "id": 23588,
                   "nodeType": "ExpressionStatement",
-                  "src": "4013:65:10"
+                  "src": "3979:65:10"
                 },
                 {
                   "expression": {
                     "expression": {
-                      "id": 23594,
+                      "id": 23589,
                       "name": "bond",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 23577,
-                      "src": "4104:4:10",
+                      "referencedDeclaration": 23572,
+                      "src": "4070:4:10",
                       "typeDescriptions": {
                         "typeIdentifier": "t_struct$_Bond_$23444_memory_ptr",
                         "typeString": "struct VariableBonding.Bond memory"
                       }
                     },
-                    "id": 23595,
+                    "id": 23590,
                     "isConstant": false,
                     "isLValue": true,
                     "isPure": false,
                     "lValueRequested": false,
-                    "memberLocation": "4109:5:10",
+                    "memberLocation": "4075:5:10",
                     "memberName": "value",
                     "nodeType": "MemberAccess",
                     "referencedDeclaration": 23443,
-                    "src": "4104:10:10",
+                    "src": "4070:10:10",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   },
-                  "functionReturnParameters": 23574,
-                  "id": 23596,
+                  "functionReturnParameters": 23569,
+                  "id": 23591,
                   "nodeType": "Return",
-                  "src": "4097:17:10"
+                  "src": "4063:17:10"
                 }
               ]
             },
             "documentation": {
-              "id": 23568,
+              "id": 23563,
               "nodeType": "StructuredDocumentation",
-              "src": "3497:207:10",
+              "src": "3464:207:10",
               "text": " @notice                  withdraw a bond if it has matured\n @param _bond_index       the index of the bond to be withdrawn\n @return withdrawn_       how much mgmt was withdrawn"
             },
             "functionSelector": "2e1a7d4d",
@@ -2485,20 +2426,20 @@
             "kind": "function",
             "modifiers": [],
             "name": "withdraw",
-            "nameLocation": "3718:8:10",
+            "nameLocation": "3685:8:10",
             "parameters": {
-              "id": 23571,
+              "id": 23566,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 23570,
+                  "id": 23565,
                   "mutability": "mutable",
                   "name": "_bond_index",
-                  "nameLocation": "3741:11:10",
+                  "nameLocation": "3708:11:10",
                   "nodeType": "VariableDeclaration",
-                  "scope": 23598,
-                  "src": "3736:16:10",
+                  "scope": 23593,
+                  "src": "3703:16:10",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2506,10 +2447,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 23569,
+                    "id": 23564,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
-                    "src": "3736:4:10",
+                    "src": "3703:4:10",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -2518,21 +2459,21 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "3726:32:10"
+              "src": "3693:32:10"
             },
             "returnParameters": {
-              "id": 23574,
+              "id": 23569,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 23573,
+                  "id": 23568,
                   "mutability": "mutable",
                   "name": "withdrawn_",
-                  "nameLocation": "3818:10:10",
+                  "nameLocation": "3784:10:10",
                   "nodeType": "VariableDeclaration",
-                  "scope": 23598,
-                  "src": "3813:15:10",
+                  "scope": 23593,
+                  "src": "3779:15:10",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2540,10 +2481,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 23572,
+                    "id": 23567,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
-                    "src": "3813:4:10",
+                    "src": "3779:4:10",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -2552,9 +2493,9 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "3799:39:10"
+              "src": "3765:39:10"
             },
-            "scope": 23599,
+            "scope": 23594,
             "stateMutability": "nonpayable",
             "virtual": false,
             "visibility": "public"
@@ -2567,11 +2508,11 @@
         "contractKind": "contract",
         "fullyImplemented": true,
         "linearizedBaseContracts": [
-          23599
+          23594
         ],
         "name": "VariableBonding",
         "nameLocation": "161:15:10",
-        "scope": 23600,
+        "scope": 23595,
         "usedErrors": []
       }
     ],

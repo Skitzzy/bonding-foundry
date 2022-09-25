@@ -18,6 +18,7 @@ contract VariableBondingTest is Test {
     function testWithdraw() public {
         vm.prank(address(1));
         uint index = bonder.create_bond(address(2), 1, 1);
+        assertEq(index, 1);
         uint amount = bonder.withdraw(index);
     }
 }

@@ -109,8 +109,7 @@ contract VariableBonding {
         // token_val = get_market_val(_lp_address, _lp_amount)
         // bond_value = get_bond_value(token_val, _discount_rate, _duration)
         uint bond_value = _lp_amount;
-        Bond memory bond = Bond(block.timestamp, _duration, bond_value);
-        bonds[msg.sender].push(bond);
+        bonds[msg.sender].push(Bond(block.timestamp, _duration, bond_value));
 
         return bonds[msg.sender].length;
     }
@@ -123,7 +122,7 @@ contract VariableBonding {
     function withdraw(
         uint _bond_index
     )
-        public 
+        public
         returns
         (
             uint withdrawn_

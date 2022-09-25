@@ -552,8 +552,8 @@
       }
     },
     "src/VariableBonding.sol": {
-      "lastModificationDate": 1662909204421,
-      "contentHash": "05203cdef1fc9743db35cc376cc6e0cb",
+      "lastModificationDate": 1662910017869,
+      "contentHash": "e2a5233101722f3202815c1fcd49f160",
       "sourceName": "src/VariableBonding.sol",
       "solcConfig": {
         "settings": {
@@ -595,8 +595,8 @@
       }
     },
     "test/Counter.t.sol": {
-      "lastModificationDate": 1662902043317,
-      "contentHash": "1df6acc22e98aa3e09cf0d7ffcb0ffb6",
+      "lastModificationDate": 1662909495660,
+      "contentHash": "5122f4f87ee8fbf9a2468a4c9c780b6a",
       "sourceName": "test/Counter.t.sol",
       "solcConfig": {
         "settings": {
@@ -643,8 +643,8 @@
       }
     },
     "test/VariableBonding.t.sol": {
-      "lastModificationDate": 1662909428157,
-      "contentHash": "ca3f027a673661d0d5ac6c8fd7a31f4a",
+      "lastModificationDate": 1662910134139,
+      "contentHash": "919be0455f1d68778eec7669001ec0e0",
       "sourceName": "test/VariableBonding.t.sol",
       "solcConfig": {
         "settings": {
